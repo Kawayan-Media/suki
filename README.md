@@ -3,7 +3,7 @@
 
 The POS itself is written using popular Flutter framework so that we can use it for multiple platform.
 
-The POS client is availble for mobile (Android, iOS) and Desktop (Windows, Linux and OSX).
+The POS client is available for mobile (Android, iOS) and Desktop (Windows, Linux and OSX).
 
 # Installation
 
